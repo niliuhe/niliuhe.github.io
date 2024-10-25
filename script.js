@@ -19,7 +19,7 @@
 // fetchSheetData();
 
 const { google } = require('googleapis');
-
+console.log("131");
 async function getSheetValues(auth) {
   const sheets = google.sheets({ version: 'v4', auth });
   const spreadsheetId = '1cG4Tlm1YgdLCZKuivkSyy8pOcx-YzEZ5Trxh8GYvhDY'; // 替换为你的表格ID
