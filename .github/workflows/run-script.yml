@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,7 +24,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '16'  # 指定 Node.js 版本
+        node-version: '16'
 
     - name: Install dependencies
       run: |
