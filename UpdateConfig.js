@@ -4,7 +4,7 @@ const fs = require('fs');
 
 async function getSheetValues(auth) {
   const sheets = google.sheets({ version: 'v4', auth });
-  const spreadsheetId = '1cG4Tlm1YgdLCZKuivkSyy8pOcx-YzEZ5Trxh8GYvhDY'; // 替换为你的表格ID
+  const spreadsheetId = '1cG4Tlm1YgdLCZKuivkSyy8pOcx-YzEZ5Trxh8GYvhDY';
   const range = '工作表1';
   const apiKey = 'AIzaSyAKMN26phfEvXQKd9o-za_hpzHlptGzBFA';
 
@@ -29,5 +29,4 @@ async function getSheetValues(auth) {
   }
 }
 
-// 认证部分省略
 getSheetValues();

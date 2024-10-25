@@ -32,7 +32,7 @@ jobs:
 
     - name: Run your script
       run: |
-        node script.js  # 替换为你的脚本文件名
+        node UpdateConfig.js  # 替换为你的脚本文件名
     
     - name: Commit and push changes
       run: |
