@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Update Config From Google Sheets
 
 on:
   push:
