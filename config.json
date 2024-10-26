@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-    "h1test":"Welcome to Asian Beauty Salon!"
-=======
   "HomeTitleText": "This is The backgroundimage TEXT.",
   "h1": "Welcome to My Barbershop",
   "p1": "Book your appointment or visit us at our location!",
@@ -13,6 +10,7 @@
   "Keratin Straighten Smoothly": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc62a00e.jpg",
   "Color": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc629ff6.jpg",
   "Bleaching": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc629ff3.jpg",
-  "Hair extension": "https://pic.superbed.cc/item/671c5c18fa9f77b4dc62a095.jpg"
->>>>>>> origin/main
+  "Hair extension": "https://pic.superbed.cc/item/671c5c18fa9f77b4dc62a095.jpg",
+  "side_bg": "https://pic.superbed.cc/item/671c66bdfa9f77b4dc62ffd6.jpg",
+  "discount": "https://pic.superbed.cc/item/671c6fc7fa9f77b4dc63815d.jpg"
 }
