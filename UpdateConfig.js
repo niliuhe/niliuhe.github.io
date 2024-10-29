@@ -16,7 +16,13 @@ async function getSheetValues(auth) {
     });
     // console.log(response.data.values);
     const data = response.data.values;
-    const jsonData = Object.fromEntries(data.slice(1));
+    // 处理数据，将第一列作为key，第二和第三列组成一个数组作为value
+    const jsonData = data.slice(1).reduce((acc, row) => {
+    const key = row[0]; // 第一列作为key
+    const value = row[2] ? [row[1], row[2]] : row[1]; // 第二和第三列组成数组
+    acc[key] = value; // 将key-value对添加到对象中
+    return acc;
+  }, {});
     fs.writeFile('config.json', JSON.stringify(jsonData, null, 2), (err) => {
       if (err) {
         console.error('Error writing to config.json:', err);
