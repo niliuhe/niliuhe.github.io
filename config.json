@@ -9,6 +9,14 @@
   "Hair extensionService": "https://pic.superbed.cc/item/671c5c18fa9f77b4dc62a095.jpg",
   "side_bg": "https://pic.superbed.cc/item/671c66bdfa9f77b4dc62ffd6.jpg",
   "discount": "https://pic.superbed.cc/item/671c6fc7fa9f77b4dc63815d.jpg",
+  "Navbar1": "Asian Salon",
+  "Navbar2": "Contact",
+  "Navbar3": "Services",
+  "Navbar4": "Our Barbers",
+  "Navbar5": "Appointment",
+  "Navbar51": "Professional Appointment",
+  "Navbar52": "Phone Appointment",
+  "Navbar53": "Email Appointment",
   "HomeH1": "Welcome to Asian Beauty Salon!",
   "HomeP1": "One Barbershops",
   "HomeH2": "Where Tradition Meets Precision",
@@ -17,9 +25,10 @@
   "HomeH4": "611 E Grand River Ave #200, East Lansing, MI 48823",
   "HomeP3": "Book your appointment or visit us at our location!",
   "ContactH1": "Contact Us",
-  "ServiceH1": "Our Services & Price list",
-  "BarbersH1": "Our Barbers",
   "Address": "Address: 123 Barbershop St, City, Country",
   "Phone": "917-285-4241",
-  "GoogleMapAPI": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.6054423363025!2d-84.47846268749686!3d42.73324117104036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822e920ca8cbe01%3A0x7be6b1912c338548!2sAsian%20Beauty%20Salon%2C%20Inc.!5e0!3m2!1sen!2sus!4v1729915077890!5m2!1sen!2sus"
+  "ServiceH1": "Our Services & Price list",
+  "BarbersH1": "Our Barbers",
+  "GoogleMapAPI": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.6054423363025!2d-84.47846268749686!3d42.73324117104036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822e920ca8cbe01%3A0x7be6b1912c338548!2sAsian%20Beauty%20Salon%2C%20Inc.!5e0!3m2!1sen!2sus!4v1729915077890!5m2!1sen!2sus",
+  "NavigationLink": "https://maps.google.com/maps/dir//Asian+Beauty+Salon,+Inc.+611+E+Grand+River+Ave+%23200+East+Lansing,+MI+48823/@42.7332412,-84.4758824,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x8822e920ca8cbe01:0x7be6b1912c338548"
 }
