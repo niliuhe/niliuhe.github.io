@@ -1,12 +1,6 @@
 {
-  "JobsBarbers": [
-    "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
-    "https://www.google.com/search"
-  ],
-  "GatesBarbers": [
-    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RmkbmLWKPhCL69k_QWBJ4AHaF7%26pid%3DApi&f=1&ipt=823df899f451b3e76d655731ce687b3289393a46c688b4b6b77e1f34e9c80bad&ipo=images",
-    "https://www.google.com/search"
-  ],
+  "JobsBarbers": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+  "GatesBarbers": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RmkbmLWKPhCL69k_QWBJ4AHaF7%26pid%3DApi&f=1&ipt=823df899f451b3e76d655731ce687b3289393a46c688b4b6b77e1f34e9c80bad&ipo=images",
   "HaircutService": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc629ffd.jpg",
   "HighlightingService": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc62a005.jpg",
   "Keratin Straighten SmoothlyService": "https://pic.superbed.cc/item/671c5c10fa9f77b4dc62a00e.jpg",
@@ -15,11 +9,16 @@
   "Hair extensionService": "https://pic.superbed.cc/item/671c5c18fa9f77b4dc62a095.jpg",
   "side_bg": "https://pic.superbed.cc/item/671c66bdfa9f77b4dc62ffd6.jpg",
   "discount": "https://pic.superbed.cc/item/671c6fc7fa9f77b4dc63815d.jpg",
-  "ContactH1": "Contact Us",
   "HomeH1": "Welcome to Asian Beauty Salon!",
+  "HomeP1": "One Barbershops",
+  "HomeH2": "Where Tradition Meets Precision",
+  "HomeP2": "Welcome to Asian Beauty Salon, where style meets expertise in the heart of the barbering world. We specialize in a variety of premium services tailored to bring out the best in every look. From precision haircuts and vibrant highlighting to luxurious Keratin Straighten Smoothly treatments, our skilled stylists are dedicated to creating styles that reflect each client’s unique personality. Whether you're looking for a fresh color, transformative bleaching, or long, flowing hair extensions, we’ve got you covered. Step in for a refreshing experience that leaves you looking and feeling your best!",
+  "HomeH3": "Asian Beauty Salon",
+  "HomeH4": "611 E Grand River Ave #200, East Lansing, MI 48823",
+  "HomeP3": "Book your appointment or visit us at our location!",
+  "ContactH1": "Contact Us",
   "ServiceH1": "Our Services & Price list",
   "BarbersH1": "Our Barbers",
-  "Intro": "Welcome to Asian Beauty Salon, where style meets expertise in the heart of the barbering world. We specialize in a variety of premium services tailored to bring out the best in every look. From precision haircuts and vibrant highlighting to luxurious Keratin Straighten Smoothly treatments, our skilled stylists are dedicated to creating styles that reflect each client’s unique personality. Whether you're looking for a fresh color, transformative bleaching, or long, flowing hair extensions, we’ve got you covered. Step in for a refreshing experience that leaves you looking and feeling your best!",
   "Address": "Address: 123 Barbershop St, City, Country",
   "Phone": "917-285-4241",
   "GoogleMapAPI": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.6054423363025!2d-84.47846268749686!3d42.73324117104036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822e920ca8cbe01%3A0x7be6b1912c338548!2sAsian%20Beauty%20Salon%2C%20Inc.!5e0!3m2!1sen!2sus!4v1729915077890!5m2!1sen!2sus"
